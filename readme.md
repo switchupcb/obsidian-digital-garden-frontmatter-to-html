@@ -23,7 +23,7 @@ You can style the frontmatter property elements with CSS.
 
 There are multiple ways to add custom CSS to an Obsidian Digital Garden.
 1. You can implement the `<style>` tag in the markdown note (from your Obsidian application).
-2. You can implement Dynamic CSS/SCSS using [Obsidian Digital Garden](https://docs.forestry.md/advanced/css-customization/).
+2. You can implement Dynamic CSS/SCSS using [Obsidian Digital Garden CSS Customization](https://docs.forestry.md/advanced/css-customization/).
 3. `forestry.md` users can implement Dynamic CSS/SCSS from the dashboard "Appearance" page _\[Click Garden Name > Appearance > Scroll to Custom styles > Add style\]_.
 
 ### How do you move the frontmatter properties?
