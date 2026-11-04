@@ -1,0 +1,8 @@
+{% if noteProps %}
+<div id="dg-frontmatter-to-html" 
+  {% for key, value in noteProps %}
+    data-{{ key | lower | replace("_", "-") | replace(" ", "-") }}="{{ value }}"
+  {% endfor %}
+  style="display: none; visibility: hidden;">
+</div>
+{% endif %}

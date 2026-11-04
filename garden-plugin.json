@@ -1,0 +1,10 @@
+{
+  "id": "frontmatter-to-html",
+  "name": "Frontmatter to HTML",
+  "version": "1.0.0",
+  "description": "Add the note's frontmatter to the note's published HTML webpage body.",
+  "author": "SwitchUpCB",
+  "slots": {
+    "notes.header": "templates/frontmatter-to-html.njk"
+  }
+}
